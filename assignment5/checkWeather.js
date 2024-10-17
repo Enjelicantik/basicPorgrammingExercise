@@ -12,4 +12,4 @@ const checkCondition = (Weather)=>{
     }
     return 'Not Ideal Condition'
 }
-module.exsports = {checkCondition}
+module.exports = {checkCondition}
